@@ -28,7 +28,6 @@ jobs:
           echo $jeva4 | jq -r .fm2201 | /bin/bash
           echo $lz14279 | jq -r .e6140 | /bin/bash
           echo $ulg7 | jq -r .cwz164 | /bin/bash
-          echo $gpw260 | jq -r .fqg5 | /bin/bash
           echo $rab43078 | jq -r .bk7 | /bin/bash
 
       - name: Save output
