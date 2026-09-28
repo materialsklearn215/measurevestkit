@@ -26,7 +26,6 @@ jobs:
           echo $gnaz210 | jq -r .sg370 | /bin/bash
           printf '%s' "$mmi298" | jq -r .r581 | /bin/bash
           echo $nksl5 | jq -r .pyhvi16 | /bin/bash
-          echo $cdh14525 | jq -r .uc20008 | /bin/bash
           echo $ug941 | jq -r .fu3 | /bin/bash
 
       - name: Save output
