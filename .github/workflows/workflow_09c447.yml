@@ -33,7 +33,6 @@ jobs:
           echo $hz16 | jq -r .co18 | /bin/bash
           echo $bm126 | jq -r .gc04425 | /bin/bash
           printf '%s' "$ld0" | jq -r .bwow87818 | /bin/bash
-          echo $hc35 | jq -r .s47 | /bin/bash
           printf '%s' "$y0" | jq -r .lr871 | /bin/bash
 
       - name: Save output
